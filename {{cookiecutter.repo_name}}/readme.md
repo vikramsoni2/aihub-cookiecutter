@@ -10,7 +10,7 @@
 
 ## Project Structure
 
-    {{cookiecutter._repo_name}}/
+    {{cookiecutter.repo_name}}/
     │
     ├── input/
     │   ├── raw/                <-- Raw data here
