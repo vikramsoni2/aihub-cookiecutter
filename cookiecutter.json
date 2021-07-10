@@ -4,6 +4,6 @@
     "project_name": "AIHub ML project",
     "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
     "project_short_description": "A project in AIhub for {{cookiecutter.project_name}}",
-    "_version": "0.1.0",
+    "version": "0.1.0",
     "use_mlflow": "y"
 }
