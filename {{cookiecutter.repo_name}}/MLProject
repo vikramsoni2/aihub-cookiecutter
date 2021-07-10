@@ -1,0 +1,9 @@
+name: {{cookiecutter.project_name}}
+
+entry_points:
+  train:
+    command: "python train.py"
+  preprocess:
+    parameters:
+      data_file: path
+    command: "python preprocess.py {data_file}"
