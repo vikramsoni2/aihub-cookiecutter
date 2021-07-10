@@ -26,7 +26,7 @@ It generates the following project structure
     ├── output/
     │   ├── models/             <-- Model pickle or model weights stored here
     │   ├── artifacts/          <-- Serialized artifacts like LabelEncoder, Vectorizer etc
-    │   ├── figures /            <-- All plots and visualizations goes here
+    │   ├── figures/            <-- All plots and visualizations goes here
     │   └── results/            <-- If the results needs to be stored for review, save here
     │
     ├── notebooks/              <-- All notebooks and experiments resides here
